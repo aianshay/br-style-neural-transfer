@@ -1,4 +1,4 @@
-# What if Brazilian artists painted world known paintings? 
+# What if Brazilian artists painted world-known paintings? 
 
 This work aims to use the so-called Neural Transfer technique, which is based on deep neural nets, to answer the question: what if renowned paintings were made by Brazilian painters?
 To do this we will be using the solution developed by Gatys et al. which was implemented using Pytorch by Alexis Jacq.
