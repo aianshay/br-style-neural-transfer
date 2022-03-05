@@ -9,4 +9,9 @@ The chosen Brazilian artwork were Abaporu, The Moon, The Lighthouse, Cat, Samba 
 
 We will essentially apply the style of Brazilian paintings to foreign paintings.
 
+- `painting` contains all foreign paintings we used
+- `results` contains the produced artwork with neural transfer
+- `report.ipynb` is a brief report of what we did
+- `neural_style.ipynb` contains the neural transfer network we used
+
 The original paper is available [here](https://arxiv.org/abs/1508.06576) and the code used [here](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html).
